@@ -9,6 +9,7 @@ You will need:
 - To install Raspian or a similar OS on the pi (make sure it has the pi GPIO Python library installed which is built into Raspian)
 - Wifi for your iPad or phone and the pi to both connect to
 - Roastmaster iOS app installed on your phone or iPad with data logging in app purchase
+- Create new RDP probe in Roastmaster with port 5050 channel 1 and the following serial: kaldidrum  
 
 I am not affiliated with Roastmaster, just a hobby coffee roaster and software developer. 
 See the RDP protocol docs here: https://rainfroginc.com/wordpress/wp-content/uploads/2017/03/RDP-Datasheet.pdf
