@@ -2,6 +2,11 @@
 This repo connects a MAX6675 thermocouple up to a Raspberry Pi for tracking Coffee Roasting temperatures through the iOS app Roastmaster over wifi. 
 Alter it however you like for your own use!
 
+Here are the pins on the Pi the thermocouple should be plugged into:
+cs_pin = 24 #(CS)
+clock_pin = 23 #(SCLK/SCK)
+data_pin = 22 #(SO/MOSI)
+
 You will need:
 - MAX6675 thermocouple with a K style probe and double female jumper cables.
 - Raspberry Pi with male GPIO pins
